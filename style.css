@@ -1,0 +1,25 @@
+
+.heading{
+    text-align: left;
+    width: 100%;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    border: 1px solid white;
+    float: right;
+}
+.modal-dialog{
+    width: 90%;
+}
+h4{
+    background-color: rgb(0, 0, 0);
+   line-height:2;
+    color: white;
+}
+canvas{
+    border:3px solid white;
+     border-radius: 20px; 
+     box-shadow: 5px 5px 5px white;
+}
